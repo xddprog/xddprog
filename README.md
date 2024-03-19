@@ -1,3 +1,5 @@
+[![Header](https://github.com/MarifMagomedov/MarifMagomedov/blob/main/assets/mylivewallpapers.com-Demon-Slayer-Kimetsu-No-Yaiba-Snowfall.mp4)]
+
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -13,6 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarifMagomedov&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Follow Me
+### Myc contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/magohaise)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk)](https://vk.com/magabreik)
