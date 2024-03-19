@@ -1,4 +1,4 @@
-[![Header](mylivewallpapers.com-Demon-Slayer-Kimetsu-No-Yaiba-Snowfall.mp4)](https://vk.com/magabreik)
+[![Header](https://github.com/MarifMagomedov/MarifMagomedov/blob/main/mylivewallpapers.com-Demon-Slayer-Kimetsu-No-Yaiba-Snowfall.gif)](https://vk.com/magabreik)
 
 
 ### Languages and Tools
@@ -16,6 +16,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarifMagomedov&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Myc contacts
+### My contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/magohaise)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk)](https://vk.com/magabreik)
