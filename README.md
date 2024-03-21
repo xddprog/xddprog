@@ -1,4 +1,4 @@
-[![Header](https://github.com/MarifMagomedov/MarifMagomedov/blob/main/mylivewallpapers.com-Demon-Slayer-Kimetsu-No-Yaiba-Snowfall.gif)](https://vk.com/magabreik)
+
 
 ## Who am I?
 I am a beginner Python web developer
