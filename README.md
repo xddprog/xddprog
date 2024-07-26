@@ -1,4 +1,4 @@
-[![Header](https://github.com/mago/mago/blob/main/mylivewallpapers.com-Demon-Slayer-Kimetsu-No-Yaiba-Snowfall.gif)](https://vk.com/magabreik)
+[![Header](https://github.com/xddprog/xddprog/blob/main/mylivewallpapers.com-Demon-Slayer-Kimetsu-No-Yaiba-Snowfall.gif)](https://vk.com/magabreik)
 
 
 ## Who am I?
@@ -12,10 +12,10 @@ I am a beginner Python web developer
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mago&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xddprog&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mago&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xddprog&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My contacts
