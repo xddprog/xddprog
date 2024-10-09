@@ -13,13 +13,14 @@ I am a beginner Python web developer
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xddprog&show_icons=true&theme=tokyonight)
-
-
+## My language stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xddprog&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xddprog&show_icons=true&theme=tokyonight) 
 
+## My activity stats
+
+<a href="https://wakatime.com"><img  style="width: 500px" src="https://wakatime.com/share/@018dfb73-3ad2-46e1-9414-b83760b50889/4f1695b0-e429-45c7-91a6-06949365e14b.png" /></a>
 
 ## My contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/magohaise)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/magoxdd)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk)](https://vk.com/magabreik)
