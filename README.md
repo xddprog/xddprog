@@ -2,7 +2,7 @@
 
 
 ## Who am I?
-I am a beginner Python web developer
+Backend developer
 
 ![](https://komarev.com/ghpvc/?username=xddprog&color=ff69b4)
 
