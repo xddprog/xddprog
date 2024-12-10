@@ -22,5 +22,3 @@ Backend developer
 ## My activity stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=magoxdd&show_icons=true&theme=tokyonight&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## My contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/magoxdd)
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk)](https://vk.com/magabreik)
